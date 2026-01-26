@@ -1,4 +1,4 @@
-id: io.github.elly-code.cherrypick
+id: io.github.elly_code.cherrypick
 # elementary SDK is not available on Flathub, so use the elementary BaseApp instead
 base: io.elementary.BaseApp
 base-version: 'circe-25.08'
