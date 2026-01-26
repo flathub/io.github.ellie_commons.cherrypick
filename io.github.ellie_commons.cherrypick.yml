@@ -30,9 +30,9 @@ modules:
     buildsystem: meson
     sources:
       - type: git
-        url: https://github.com/ellie-commons/cherrypick.git
-        tag: 2.2.1
-        commit: fca7efc8b244172b7a4af4172916b3a818ca62b2
+        url: https://github.com/elly-code/cherrypick.git
+        tag: 2.3,0-4
+        commit: c777e9b0aae659ddb106f5df7f449b23039b06fd
         x-checker-data:
           type: git
           tag-pattern: '^([\d.]+)$'
