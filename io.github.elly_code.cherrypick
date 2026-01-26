@@ -5,7 +5,7 @@ base-version: 'circe-25.08'
 runtime: org.gnome.Platform
 runtime-version: '49'
 sdk: org.gnome.Sdk
-command: io.github.elly-code.cherrypick
+command: io.github.elly_code.cherrypick
 
 finish-args:
   - '--share=ipc'
