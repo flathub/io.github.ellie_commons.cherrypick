@@ -31,7 +31,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/elly-code/cherrypick.git
-        commit: 5d974dfa47644b8d6e8d3976355391c70f63806e
+        commit: b58b2fd469bdae35f7d915dc4e06acfe42d2ed50
         x-checker-data:
           type: git
           tag-pattern: '^([\d.]+)$'
